@@ -1,0 +1,102 @@
+{
+  "participant_id": "019",
+  "tasks": {
+    "trail_making_test": {
+      "image_file": "images/tmt.jpg",
+      "coords_file": "tmt_data/tmt_coords.json",
+      "score": 1
+    },
+    "cube": {
+      "image_file": "images/cube.jpg",
+      "score": 0 
+    },
+    "clock": {
+      "image_file": "images/clock.jpg",
+      "score": 2
+    },
+    "naming_lion": {
+      "audio_file": "audio/naming_lion.m4a",
+      "score": 1
+    },
+    "naming_rhino": {
+      "audio_file": "audio/naming_rhino.m4a",
+      "score": 0
+    },
+    "naming_camel": {
+      "audio_file": "audio/naming_camel.m4a",
+      "score": 1
+    },
+    "memory_1": {
+      "audio_file": "audio/memory_1.m4a",
+      "score": 3
+    },
+    "memory_2": {
+      "audio_file": "audio/memory_2.m4a",
+      "score": 5
+    },
+    "attention_forward": {
+      "audio_file": "audio/attention_forward.m4a",
+      "score": 0
+    },
+    "attention_backward": {
+      "audio_file": "audio/attention_backward.m4a",
+      "score": 1
+    },
+    "attention_letter_a": {
+      "audio_file": "audio/attention_letter_a.m4a",
+      "score": 0
+    },
+    "attention_subtract_100": {
+      "audio_file": "audio/attention_subtract_100.m4a",
+      "score": 1
+    },
+    "language_sentence_1": {
+      "audio_file": "audio/language_sentence_1.m4a",
+      "score": 0
+    },
+    "language_sentence_2": {
+      "audio_file": "audio/language_sentence_2.m4a",
+      "score": 0
+    },
+    "language_fluency": {
+      "audio_file": "audio/language_fluency.m4a",
+      "score": 0
+    },
+    "abstraction_1": {
+      "audio_file": "audio/abstraction_1.m4a",
+      "score": 1
+    },
+    "abstraction_2": {
+      "audio_file": "audio/abstraction_2.m4a",
+      "score": 1
+    },
+    "memory_3": {
+      "audio_file": "audio/memory_3.m4a",
+      "score": 4
+    },
+    "orientation_date": {
+      "audio_file": "audio/orientation_date.m4a",
+      "score": 1
+    },
+    "orientation_month": {
+      "audio_file": "audio/orientation_month.m4a",
+      "score": 1
+    },
+    "orientation_year": {
+      "audio_file": "audio/orientation_year.m4a",
+      "score": 1
+    },
+    "orientation_day": {
+      "audio_file": "audio/orientation_day.m4a",
+      "score": 1
+    },
+    "orientation_place": {
+      "audio_file": "audio/orientation_place.m4a",
+      "score": 1
+    },
+    "orientation_city": {
+      "audio_file": "audio/orientation_city.m4a",
+      "score": 1
+    }
+  }
+}
