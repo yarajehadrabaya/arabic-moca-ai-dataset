@@ -8,7 +8,7 @@
     },
     "cube": {
       "image_file": "images/cube.jpg",
-      "score": 1
+      "score": 0
     },
     "clock": {
       "image_file": "images/clock.jpg",
@@ -40,7 +40,7 @@
     },
     "attention_backward": {
       "audio_file": "audio/attention_backward.m4a",
-      "score": 1
+      "score": 0
     },
     "attention_letter_a": {
       "audio_file": "audio/attention_letter_a.m4a",
