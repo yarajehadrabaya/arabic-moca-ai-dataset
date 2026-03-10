@@ -1,5 +1,5 @@
 {
-  "participant_id": "002",
+  "participant_id": "003",
   "tasks": {
     "trail_making_test": {
       "image_file": "images/tmt.jpg",
@@ -12,7 +12,7 @@
     },
     "clock": {
       "image_file": "images/clock.jpg",
-      "score": 3
+      "score": 0
     },
     "naming_lion": {
       "audio_file": "audio/naming_lion.m4a",
@@ -24,7 +24,7 @@
     },
     "naming_camel": {
       "audio_file": "audio/naming_camel.m4a",
-      "score": 1
+      "score": 0
     },
     "memory_1": {
       "audio_file": "audio/memory_1.m4a",
@@ -48,7 +48,7 @@
     },
     "attention_subtract_100": {
       "audio_file": "audio/attention_subtract_100.m4a",
-      "score":1
+      "score": 2
     },
     "language_sentence_1": {
       "audio_file": "audio/language_sentence_1.m4a",
@@ -56,15 +56,16 @@
     },
     "language_sentence_2": {
       "audio_file": "audio/language_sentence_2.m4a",
-      "score": 1
+      "score": 0
     },
     "language_fluency": {
       "audio_file": "audio/language_fluency.m4a",
-      "score": 0
+      "score": 0 
+    
     },
     "abstraction_1": {
       "audio_file": "audio/abstraction_1.m4a",
-      "score": 1
+      "score": 0
     },
     "abstraction_2": {
       "audio_file": "audio/abstraction_2.m4a",
@@ -76,11 +77,11 @@
     },
     "orientation_date": {
       "audio_file": "audio/orientation_date.m4a",
-      "score": 1
+      "score": 0
     },
     "orientation_month": {
       "audio_file": "audio/orientation_month.m4a",
-      "score": 1
+      "score": 0
     },
     "orientation_year": {
       "audio_file": "audio/orientation_year.m4a",
