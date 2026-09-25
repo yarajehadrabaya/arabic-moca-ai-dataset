@@ -47,7 +47,8 @@
       "score": 1
     },
     "attention_subtract_100": {
-      "audio_file":2
+      "audio_file": "audio/attention_subtract_100.m4a",
+      "score": 2
     },
     "language_sentence_1": {
       "audio_file": "audio/language_sentence_1.m4a",
@@ -74,27 +75,27 @@
       "score": 1
     },
     "orientation_date": {
-      "audio_file": "audio/orientation_date.m4a",
+      "audio_file": null,
       "score": 1
     },
     "orientation_month": {
-      "audio_file": "audio/orientation_month.m4a",
+      "audio_file": null,
       "score": 1
     },
     "orientation_year": {
-      "audio_file": "audio/orientation_year.m4a",
+      "audio_file": null,
       "score": 1
     },
     "orientation_day": {
-      "audio_file": "audio/orientation_day.m4a",
+      "audio_file": null,
       "score": 1
     },
     "orientation_place": {
-      "audio_file": "audio/orientation_place.m4a",
+      "audio_file": null,
       "score": 1
     },
     "orientation_city": {
-      "audio_file": "audio/orientation_city.m4a",
+      "audio_file": null,
       "score": 1
     }
   }

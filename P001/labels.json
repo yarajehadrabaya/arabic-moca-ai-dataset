@@ -75,11 +75,11 @@
       "score": 3
     },
     "orientation_date": {
-      "audio_file": "audio/orientation_date.m4a",
+      "audio_file": "audio/orientation_date.wav",
       "score": 0
     },
     "orientation_month": {
-      "audio_file": "audio/orientation_month.m4a",
+      "audio_file": null,
       "score": 0
     },
     "orientation_year": {

@@ -65,6 +65,12 @@ These logs allow reconstruction of drawing trajectories and validation of task e
 
 ---
 
+### Label File References
+
+Paths in each participant's `labels.json` are relative to that participant's folder. When a task has no corresponding recording in the release, its `audio_file` value is `null`.
+
+---
+
 ## Data Anonymization
 
 All data have been fully anonymized prior to release.
