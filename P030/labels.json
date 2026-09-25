@@ -75,27 +75,27 @@
       "score": 0
     },
     "orientation_date": {
-      "audio_file": "audio/orientation_date.m4a",
+      "audio_file": null,
       "score": 0
     },
     "orientation_month": {
-      "audio_file": "audio/orientation_month.m4a",
+      "audio_file": null,
       "score": 0
     },
     "orientation_year": {
-      "audio_file": "audio/orientation_year.m4a",
+      "audio_file": null,
       "score": 0
     },
     "orientation_day": {
-      "audio_file": "audio/orientation_day.m4a",
+      "audio_file": null,
       "score": 0
     },
     "orientation_place": {
-      "audio_file": "audio/orientation_place.m4a",
+      "audio_file": null,
       "score": 0
     },
     "orientation_city": {
-      "audio_file": "audio/orientation_city.m4a",
+      "audio_file": null,
       "score": 0
     }
   }
