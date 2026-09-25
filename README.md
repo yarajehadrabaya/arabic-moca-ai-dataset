@@ -86,6 +86,16 @@ This dataset may support research in:
 
 ---
 
+## Data License
+
+Unless otherwise noted, the dataset in this repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You may share and adapt the dataset for any purpose, provided that you give appropriate credit, link to the license, and indicate whether changes were made. See the [full license](https://creativecommons.org/licenses/by/4.0/).
+
+This license does not grant permissions for privacy, publicity, or other rights that may apply to identifiable people or third-party material. Users are responsible for confirming that their use complies with applicable laws, ethics requirements, and the rights of others.
+
+---
+
 ## Citation
 
 If you use this dataset in academic research, please cite the associated research work.
