@@ -4,6 +4,14 @@ This repository contains the anonymized multimodal dataset used for evaluating a
 
 The dataset was collected during supervised cognitive assessment sessions conducted in an elderly care facility and is intended to support research in AI-assisted neuropsychological assessment and explainable medical AI systems.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22982271.svg)](https://doi.org/10.5281/zenodo.22982271)
+
+## Archived Release
+
+The validated `v1.0.1` dataset release is archived on Zenodo:
+
+**DOI:** [10.5281/zenodo.22982271](https://doi.org/10.5281/zenodo.22982271)
+
 ---
 
 ## Dataset Overview
@@ -104,7 +112,9 @@ This license does not grant permissions for privacy, publicity, or other rights 
 
 ## Citation
 
-If you use this dataset in academic research, please cite the associated research work.
+If you use this dataset in academic research, please cite:
+
+> Arabic MoCA AI Dataset (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.22982271
 
 ---
 
